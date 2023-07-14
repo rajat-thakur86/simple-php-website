@@ -1,3 +1,4 @@
+###############################################
 <?php
 
 // Comment these lines to hide errors
