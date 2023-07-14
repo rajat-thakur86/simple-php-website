@@ -1,4 +1,4 @@
-#############################Sunny Testing
+#############################Sunny
 <?php
 
 // Comment these lines to hide errors
